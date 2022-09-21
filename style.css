@@ -6,6 +6,9 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+nav.navbar.row.no-overflow-x {
+    overflow-x: inherit;
+}
 
 a,
 button {
