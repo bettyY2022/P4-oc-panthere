@@ -800,9 +800,6 @@ h4 {
     background-color: #FFFFFF;
 }
 
-.bgc-dark-slate-blue {
-    
-}
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
@@ -1056,6 +1053,7 @@ h4 {
     .navbar-brand img {
         max-height: 40px;
         width: auto;
+        height: auto;
     }
     .nav-invert .navbar-header {
         float: none;
